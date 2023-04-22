@@ -1,5 +1,5 @@
 // Binary Search 1.0
-// https://github.com/JulianStoev/BinarySearchHook
+// https://github.com/JulianStoev/ReactBinarySearchHook
 
 import { useCallback } from "react";
 
